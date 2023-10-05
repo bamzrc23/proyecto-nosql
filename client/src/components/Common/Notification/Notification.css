@@ -1,0 +1,7 @@
+.notification {
+    position:fixed;
+    top: 100px;
+    right: 1px;
+    background: lightblue;
+    color: white;
+}
